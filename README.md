@@ -77,8 +77,7 @@ Some of the amazing quotes included in this project:
 
 ## 👨‍💻 Author
 - **Name**: [Your Name](https://github.com/Purohit1999) 🧑‍💻
-- **Email**: your.email@example.com 📧
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile) 🌐
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/param-p-370616310/) 🌐
 
 ---
 
